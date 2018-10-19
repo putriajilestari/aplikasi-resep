@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">ResepMasakan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_adapter_masakan">AdapterMasakan</string>
+    <string name="title_activity_resep_masakan">ResepMasakan</string>
+
+    <string name="Bibimbab">
+        Bahan Bibimbap Ala Korea
+        100 g horenzo/daun bayam jepang
+        600 g nasi putih panas
+        6 sdm kimchi
+
+        Sayuran tumis Bibimbap Ala Korea
+        3 sdm minyak sayur
+        100 g wortel, potong bentuk korek api
+        100 g zucchini, potong
+        100 g lobak, potong bentuk korek api
+        75 g taoge kedelai
+        3 sdm minyak wijen
+        1½ sdt garam
+
+        Daging sapi tumis Bibimbap Ala Korea
+        2 sdm minyak sayur
+        150 g daging sapi cincang
+        1 sdm minyak wijen
+        1 sdt kecap asin
+        ¼ sdt gula pasir
+
+        Saus, aduk rata:
+        3 sdm gochujang
+        3 siung bawang putih, cincang kasar
+
+        Kaldu, masak hingga mendidih:
+        350 ml kaldu sapi
+        2 batang bawang  daun, iris ½ cm
+        2 siung bawang putih, cincang kasar
+        1 sdt kecap asin
+        ¼ sdt garam
+        ¼ sdt merica putih bubuk
+
+        Taburan kaldu Bibimbap Ala Korea
+        2 butir telur ayam, buat dadar, gulung, iris tipis
+
+        Cara Memasak Resep dan Cara Membuat Bibimbap Ala Korea yang Mudah,Praktis ala Rumahan
+
+        Langkah pertama didihkan air kemudian rebus horenzo hingga matang, angkat
+        Selanjutnya rendam didalam air dingin hingga membuat pematangan terhenti, angkat dan tiriskan horenzo
+        Kemudian tumis sayuran , caranya panaskan minyak sayur kemudian tumis wortel, lobak, zucchini dan taoge secara bergantian sambil dibubuhi minyak wijen dan garam hingga layu, angkat lalu tiriskan
+        Sedangkan untuk membuat daging sapi tumis langkah pertama dengan minyak wijen , tambahkan gula, kecap asin dan gula hingga matang, angkat lalu sisihkan
+        Sedangkan untuk penyajian , caranya nasi didalam tiap mangkuk saji selanjutnya letakan sayuran , kimchi, daging sapi dan tumis.Lalu tuang saus hingga merata
+        Sajikan selagi panas dengan tambahan kaldu dan taburan topping.
+    </string>
+
+    <string name="Bukgogi">
+        Bahan-bahan
+        Daging, bagian has - 300 gram
+        Bawang putih, cincang - 3 siung
+        Bawang bombay, iris - 1 buah
+        Jahe, iris - 1 ruas
+        Saus tiram - 2 sdm
+        Kecap manis - 1/2 sdm
+        Kecap asin - 1/2 sdm
+        Garam - 1/4 sdt
+        Lada bubuk - 1/4 sdt
+        Lada hitam - 1/4 sdt
+        Minyak wijen - 1/2 sdt
+        Minyak, untuk menumis - 1 sdm
+        Air - 100 ml
+        Wijen, sangrai - secukupnya
+
+        Langkah
+        1. Iris tipis daging.
+        2. Bumbui daging dengan saus tiram, kecap manis, dan kecap asin.
+           Aduk hingga daging terlumur rata dengan saus. Simpan daging dalam kulkas selama 20 menit.
+        3. Panaskan minyak. Tumis bawang putih, bombay, dan jahe hingga harum.
+        4. Masukkan lada bubuk dan lada hitam. Tumis kembali sebentar.
+        5. Masukkan daging lalu aduk hingga berubah warna.
+        6. Tuang air lalu aduk dan masak hingga air sedikit menyusut.
+        7. Tuang minyak wijen dan masukkan garam. Aduk rata lalu angkat.
+        8. Siap disajikan dengan taburan biji wijen.
+
+        Tips
+        Jika ingin lebih pedas, takaran lada bisa ditambahkan sesuai selera.
+    </string>
+
+    <string name="Kimbap">
+        Bahan Kimbab Korea
+        Nasi pulen yang masih hangat secukupnya
+        2 butir telur ayam
+        3 buah sosis yang sudah dipotong menjadi empat
+        5 lembar nori atau rumput laut kering dengan ukuran besar
+
+        Bahan Tumis Kimbab Korea
+        100 gram kol yang sudah diiris tipis
+        2 siung bawang putih yang sudah dicincang
+        1 sendok makan saus tiram
+        Wortel yang sudah diiris memanjang secukupnya
+        Garam secukupnya
+
+        Cara Membuat Kimbab Korea
+        1. Goreng terlebih dahulu telur dan buat menjadi telur dadar sampai matang. Potong memanjang dan sisihkan.
+        2. Goreng sosis sampai matang dan sisihkan.
+        3. Tumis bawang putih, setelah tercium bau wangi, masukkan kol dan wortel, masak sampai agak layu.
+        4. Tambahkan saus tiram dan garam, masak kembali sampai matang, lalu sisihkan.
+        5. Siapkan satu lembar nori, ambil nasi dan ratakan di atas nori.
+        6. Susun telur, sosis, dan sayur tumis di atas nasi.
+        7. Kemudian gulung dan padatkan, lalu potong dengan ukuran yang sama.
+        Kimbab Korea siap disajikan.
+    </string>
+
+    <string name="Kimchi">
+        Bahan
+        1 buah sawi putih.
+        2 buah bawang bombay, iris tipis.
+        4 batang wortel, iris tipis memanjang.
+        4 batang lobak putih, iris tipis.
+        4 batang daun bawang.
+        2 buah bawang putih, lalu parut.
+        1 ruas jahe, lalu diparut.
+        1/2 gelas bubuk cabe Korea.
+        2 sendok teh garam.
+        1 sendok makan gula pasir.
+        1/2 gelas garam kasar/garam laut.
+        1 gelas air.
+        1/4 gelas saus ikan Korea.
+        1/3 gelas air.
+        1 sendok makan tepung beras.
+
+        Cara Membuat Kimchi
+        1. Sawi dibiarkan utuh dan cuci bersih dengan air mengalir hingga ke lembar terdalam daun sawi.
+           Sesudah bersih, rendam sawi dalam campuran tiga genggam garam yang sudah dilarutkan dengan
+           air matang untuk sedikitnya enam jam, sampai sawi putih terlihat layu.
+        2. Setelah enam jam, angkat sawi dan cuci kembali dengan air bersih hingga ke sela-sela lipatan daun sawi
+           agar sisa garam tercuci bersih. Tiriskan. Bila suka sawi bisa dibiarkan utuh begitu saja
+           atau dipotong menjadi dua bagian dengan membuang ujung-ujung sawi.
+        3. Saatnya mengolah sawi dengan campuran bahan-bahan bumbu.
+           Campurkan jadi satu gula, bubuk cabai, jahe, bawang putih, selada air, daun bawang, radis, saus ikan, dan sedikit garam.
+           Baurkan campuran bumbu secara merata menutup semua bagian sawi hingga ke sela-sela lembar daun terdalam.
+           Simpan dalam wadah tertutup rapat dan biarkan sedikitnya 2×24 jam sampai bumbu meresap ke dalam daging sawi
+           dan jangan menyimpan di dalam lemari es.
+           Proses penyimpan lebih lama akan lebih baik karena fermentasi berlangsung sempurna
+           dan rasa yang dihasilkan akan maksimal. Setelah itu, baru simpan kimchi dalam lemari es.
+        4. Kimchi siap saji bisa disantap begitu saja atau disuguhkan sebagai makanan pembuka sebelum makanan utama.
+    </string>
+
+    <string name="Ramyeon">
+        Bahan :
+        250 g ramen yang sudah direbus,
+        tiriskan Kuah : 1 sdm minyak sayur 2 siung bawang putih,
+        cincang 1 sdm daun bawang iris halus
+        150 g daging ayam cincang halus
+        600 ml kaldu ayam/air
+        1 sdm miso kuning
+        1 sdm kecap asin
+        1/2 sdt cabai merah bubuk
+        1/2 sdt merica bubuk
+        1 sdt garam
+        50 g paprika merah,iris memanjang kecil
+        50 g mentimun, iris memanjang kecil
+        1 sdt tepung kanji, larutkan dengan sedikit air
+
+        Cara membuat:
+
+        Kuah : Tumis bawang putih dan daun bawang hingga layu.
+        Masukkan daging ayam, aduk hingga matang.
+        Tambahkan kaldu, bumbu, dan didihkan.
+        Masukkan paprika dan mentimun, aduk hingga layu.
+        Tuangi larutan tepung kanji, aduk hingga agak kental.
+        Masukkan ramen, aduk hingga rata. Angkat.
+        Tuang ke piring saji.
+        Sajikan hangat.
+    </string>
+
+    <string name="Tteokbokki">
+        Bahan-bahan
+        untuk 2 porsi
+        1. Garaetteok/kue beras
+            250 gram tepung beras
+            2 sdm tepung tapioka
+            secukupnya air
+            secukupnya minyak wijen / minyak sayur
+        2. Gochujang / saus pedas asam manis
+            5 buah cabe merah keriting
+            2 buah cabe rawit
+            1 siung bawang putih
+            1 sdm kecap asin
+            1 sdm cuka
+            1 sdm gula pasir
+            2 sdm saus cabai botolan
+            1 sdm tepung ketan
+            optional bakso / fillet ayam kukus / otak2 ikan (pilih salah satu)
+            secukupnya air
+            taburan / finishing
+            1 helai daun bawang, cincang
+            secukupnya biji wijen
+
+        Langkah
+        30 menit
+        1. Campur bahan kue beras, tambahkan air sedikit demi sedikit sampai kalis.
+           jika sudah kalis, bentuk adonan panjang lurus..
+           Potong2 sesuai selera, lalu oles minyak agar tdk lengket..
+           Setelah siap, rebus hingga matang.. tiriskan
+        2. Haluskan semua bahan saus pedas manis (kl saya pakai blender krn selalu bikin dlm jumlah banyak)
+          Catatan : tingkat selera kepedasan tiap orang berbeda,
+          maka jumlah cabai yg dipakai bs disesuaikan..
+          Untuk bahan optional bisa ikut diblender disini,
+          juga bisa dipotong2 kecil lalu ditumis bersama di langkah selanjutnya..
+        3. Panaskan minyak, tumis saus pedas manis hingga harum.. Masukkan kue beras, aduk hingga rata dan kuah mengental..
+        4. Angkat, taburkan daun bawang cincang.. sajikan hangat2.
+    </string>
+    <string name="title_activity_detail_resep_masakan">DetailResepMasakan</string>
+</resources>
